@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--Bootstrap-->
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=bootstrap&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" style="max-width: 100%;"> </a>
  <!--Tailwind-->
-<a href="https://github.com/donPabloNow?tab=repositories&amp;q=&amp;type=&amp;language=tailwind&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" style="max-width: 100%;"> </a>
+<a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=tailwind&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" style="max-width: 100%;"> </a>
 <!--Sass-->
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=sass&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg" style="max-width: 100%;"> </a>
 <!---->
