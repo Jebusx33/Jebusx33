@@ -11,7 +11,8 @@
 -->
 
 ```diff   
-+/* ********** Software Developer from Buenos Aires, Argentina ********** */ 
++  /*********** Software Developer from Buenos Aires, Argentina ***********/    
+
 ```
 
 <!--
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 ```diff   
-!_Full Stack: 
+! Full Stack: 
 ```
 <p dir="auto">
   <!--html5-->
@@ -82,7 +83,7 @@ Here are some ideas to get you started:
 </p>
 
 ```diff   
-!_Data Bases: 
+! Data Bases: 
 ```
 
  <p dir="auto">
@@ -97,7 +98,7 @@ Here are some ideas to get you started:
  </p>
  
  ```diff
-!_Version Control:
+! Version Control:
 ```
  
  <p dir="auto">
@@ -109,7 +110,7 @@ Here are some ideas to get you started:
   </p>
 
 ```diff   
-!_Tools: 
+! Tools: 
 ```
   <!---->
    <p dir="auto">
@@ -119,7 +120,7 @@ Here are some ideas to get you started:
  </p>
  
 ```diff
-!_OS: 
+! OS: 
 ```
 
   <p dir="auto">
@@ -131,7 +132,7 @@ Here are some ideas to get you started:
   </p>
   
 ```diff
-@@_Let's connect!_@@
+@@ Let's connect! @@
 ``` 
 <p dir="auto">
 <a href="https://www.linkedin.com/in/jesusgabrielarias" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="donpablonow" alt="donpablonow" height="30" width="40" style="max-width: 100%;"></a>
