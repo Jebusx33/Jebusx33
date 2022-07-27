@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=4D8BE4&width=600&height=60&lines=Hello%2C+world!+%F0%9F%92%BB+I'm++Jesus+Arias(Jebus)++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&width=500&height=35&lines=Hello+world!!!+%F0%9F%92%BB+I'm+Jesus+Arias+(Jebus))](https://git.io/typing-svg)
 <!--
 ```diff 
 - text in red 
@@ -14,6 +14,23 @@
 +  /*********** Software Developer from Buenos Aires, Argentina ***********/    
 
 ```
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+<!--
+https://github.com/Ileriayo/markdown-badges
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant) 
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/) 
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest) 
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant) 
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+-->
 
 <!--
 **Jebusx33/Jebusx33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,7 +100,7 @@ Here are some ideas to get you started:
 </p>
 
 ```diff   
-! Data Bases: 
+! Databases: 
 ```
 
  <p dir="auto">
@@ -131,9 +148,7 @@ Here are some ideas to get you started:
  
   </p>
   
-```diff
-@@ Let's connect! @@
-``` 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <p dir="auto">
 <a href="https://www.linkedin.com/in/jesusgabrielarias" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="donpablonow" alt="donpablonow" height="30" width="40" style="max-width: 100%;"></a>
 </p> 
