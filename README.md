@@ -11,7 +11,7 @@
 -->
 
 ```diff   
-+/* *********************** Software Developer from Buenos Aires, Argentina ************************ */ 
++/* ********** Software Developer from Buenos Aires, Argentina ********** */ 
 ```
 
 <!--
