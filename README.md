@@ -12,7 +12,7 @@ _ tesxt in blue
 -->
 
 ```diff   
-+  /*********** Software Developer from Buenos Aires, Argentina ***********/    
++  /*********** Web Developer from Buenos Aires, Argentina ***********/    
 
 ```
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
