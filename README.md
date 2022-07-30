@@ -78,10 +78,12 @@ Here are some ideas to get you started:
    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" style="max-width: 100%;"> </a>
 
   <!--Vue--> 
- <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=vuejs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" style="max-width: 100%;"> </a>
+<!--
+  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=vuejs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=vuepress&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuepress.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=vuetify&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuetify.svg" style="max-width: 100%;"> </a>
-
+-->
+  
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=typescript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" style="max-width: 100%;"> </a>
 
   <!--Node-->
@@ -94,10 +96,11 @@ Here are some ideas to get you started:
  
 <!--Java-->
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" style="max-width: 100%;"> </a>
+  <!--
    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://camo.githubusercontent.com/72fe3f98e0a6af5e97d7597e691c35235cae4cd9de7551ff72468dd6e71cfcc6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a71526d556533654339726878385774714e41546c61672e706e67" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=spring&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg" style="max-width: 100%;"> </a>
-
+-->
   <!----> 
   <!---->
 
@@ -106,9 +109,10 @@ Here are some ideas to get you started:
 ```diff   
 ! Databases: 
 ```
-
+<!--
  <p dir="auto">
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=oracle&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg" style="max-width: 100%;"> </a>
+-->
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mariadb&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mongodb&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" style="max-width: 100%;"> </a>
@@ -136,9 +140,10 @@ Here are some ideas to get you started:
   <!---->
    <p dir="auto">
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=typescript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" style="max-width: 100%;"> </a>
+<!--  
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=jenkins&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" style="max-width: 100%;"> </a>
-
- </p>
+--> 
+</p>
  
 ```diff
 ! OS: 
