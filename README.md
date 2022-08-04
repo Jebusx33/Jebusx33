@@ -112,7 +112,6 @@ Here are some ideas to get you started:
 
  <p dir="auto">
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=oracle&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg" style="max-width: 100%;"> </a>
-
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mysql&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mariadb&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=mongodb&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" style="max-width: 100%;"> </a>
