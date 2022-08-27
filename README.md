@@ -92,13 +92,15 @@ Here are some ideas to get you started:
   <!--Node-->
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" style="max-width: 100%;"> </a>
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/npm.svg" style="max-width: 100%;"> </a>
-<a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=express&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" style="max-width: 100%;"> </a>
+<a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=express&amp;sort="> <img width="32" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="max-width: 100%;"> </a>
  
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/grunt-1.svg" style="max-width: 100%;"> </a>
  
 <!--Java-->
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" style="max-width: 100%;"> </a>
+    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="52" src="https://maven.apache.org/images/maven-logo-white-on-black.png" style="max-width: 100%;"> </a>
+
   <!--
    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://camo.githubusercontent.com/72fe3f98e0a6af5e97d7597e691c35235cae4cd9de7551ff72468dd6e71cfcc6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a71526d556533654339726878385774714e41546c61672e706e67" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" style="max-width: 100%;"> </a>
