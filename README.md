@@ -97,6 +97,10 @@ Here are some ideas to get you started:
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/grunt-1.svg" style="max-width: 100%;"> </a>
  
+ <!--Python-->
+     <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="52" src="https://maven.apache.org/images/maven-logo-white-on-black.png" style="max-width: 100%;"> </a>
+   
+   
 <!--Java-->
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" style="max-width: 100%;"> </a>
     <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="52" src="https://maven.apache.org/images/maven-logo-white-on-black.png" style="max-width: 100%;"> </a>
