@@ -80,6 +80,14 @@ Here are some ideas to get you started:
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/json.svg" style="max-width: 100%;"> </a>
    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" style="max-width: 100%;"> </a>
 
+   
+ <!--Anglar-->
+    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=angular&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg" style="max-width: 100%;"> </a>
+   <!--https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg-->
+
+   
+   
+   
   <!--Vue--> 
 <!--
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=vuejs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" style="max-width: 100%;"> </a>
@@ -148,7 +156,7 @@ Here are some ideas to get you started:
 ```
   <!---->
    <p dir="auto">
- <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=typescript&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=postman&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg" style="max-width: 100%;"> </a>
 <!--  
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=jenkins&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" style="max-width: 100%;"> </a>
 --> 
