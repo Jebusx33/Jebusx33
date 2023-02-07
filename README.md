@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
    
  <!--Anglar-->
-    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=angular&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg" style="max-width: 100%;"> </a>
+  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=angularjs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg" style="max-width: 100%;"> </a>
    <!--https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg-->
 
    
@@ -100,7 +100,9 @@ Here are some ideas to get you started:
   <!--Node-->
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" style="max-width: 100%;"> </a>
   <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/npm.svg" style="max-width: 100%;"> </a>
+     <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nodejs&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=express&amp;sort="> <img width="32" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" style="max-width: 100%;"> </a>
+    <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=nextjs&amp;sort="> <img width="32" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" style="max-width: 100%;"> </a>
  
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Jebusx33?tab=repositories&amp;q=&amp;type=&amp;language=gulp&amp;sort="> <img width="32" src="https://cdn.worldvectorlogo.com/logos/grunt-1.svg" style="max-width: 100%;"> </a>
